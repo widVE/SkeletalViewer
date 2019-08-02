@@ -1,0 +1,24 @@
+﻿Build started 3/22/2017 10:53:22 AM.
+     1>Project "S:\apps\dual_test\SkeletalViewer\SkeletalViewer.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"S:\apps\dual_test\SkeletalViewer\x64\Release\SkelView.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:.\ Leap.lib Msdmo.lib dmoguids.lib amstrmid.lib avrt.lib kernel32.lib user32.lib gdi32.lib gdiplus.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Kinect10.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"S:\apps\dual_test\SkeletalViewer\x64\Release\SkelView.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"S:\apps\dual_test\SkeletalViewer\x64\Release\SkelView.lib" /MACHINE:X64 x64\Release\SkeletalViewer.res
+         x64\Release\CaveMaster.obj
+         x64\Release\DrawDevice.obj
+         x64\Release\KinectAudioStream.obj
+         x64\Release\LELSender.obj
+         x64\Release\NuiImpl.obj
+         x64\Release\PlayerVideoRecorder.obj
+         x64\Release\PracticalSocket.obj
+         x64\Release\rs232.obj
+         x64\Release\SkeletalViewer.obj
+         x64\Release\Socket.obj
+         x64\Release\stdafx.obj
+         x64\Release\wiimote.obj
+         Generating code
+         Finished generating code
+         SkeletalViewer.vcxproj -> S:\apps\dual_test\SkeletalViewer\x64\Release\SkelView.exe
+     1>Done Building Project "S:\apps\dual_test\SkeletalViewer\SkeletalViewer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.75
