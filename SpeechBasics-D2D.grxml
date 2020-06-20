@@ -1,0 +1,215 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>SCALE</tag>
+        <one-of>
+          <item>scale</item>
+          <item>resize</item>
+          <item>size</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>MOVE</tag>
+        <one-of>
+          <item>move</item>
+          <item>move over</item>
+          <item>move aside</item>
+          <item>move around</item>
+          <item>manoeuvre</item>
+          <item>relocate</item>
+          <item>slide</item>
+          <item>position</item>
+          <item>reposition</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ROTATE</tag>
+        <one-of>
+          <item>rotate</item>
+          <item>spin</item>
+          <!--<item>place</item>
+          <item>put here</item>
+          <item>move here</item>
+          <item>move it here</item>
+          <item>move to here</item>
+          <item>reposition here</item>
+          <item>position here</item>
+          <item>right here</item>
+          <item>right there</item>
+          <item>put it right here</item>
+          <item>put it right there</item>
+          <item>there</item>
+          <item>move it there</item>
+          <item>move to there</item>
+          <item>reposition there</item>
+          <item>position there</item>
+          <item>place here</item>
+          <item>place there</item>
+          <item>place it here</item>
+          <item>place it there</item>
+          <item>go here</item>
+          <item>go there</item>
+          <item>go</item>-->
+        </one-of>
+      </item>
+      <item>
+        <tag>GRAB</tag>
+        <one-of>
+          <item>grab</item>
+          <item>pull</item>
+          <item>come here</item>
+          <item>come</item>
+          <item>bring here</item>
+          <item>obtain</item>
+          <item>accio</item>
+          <item>acquire</item>
+          <item>grip</item>
+          <item>clasp</item>
+          <item>clamp</item>
+          <item>take hold</item>
+          <item>hold</item>
+          <item>hold on</item>
+          <item>hold on to</item>
+          <item>grasp</item>
+          <item>clutch</item>
+          <item>carry</item>
+          <item>pick up</item>
+          <item>take</item>
+          <item>attach</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RELEASE</tag>
+        <one-of>
+          <item>release</item>
+          <item>drop</item>
+          <item>let go</item>
+          <item>set down</item>
+          <item>detach</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RETURN</tag>
+        <one-of>
+          <item>return</item>
+          <item>put back</item>
+          <item>send back</item>
+          <item>restore</item>
+          <item>back</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SELECT</tag>
+        <one-of>
+          <item>select</item>
+          <item>highlight</item>
+          <item>selection</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>STOP</tag>
+        <one-of>
+          <item>stop</item>
+          <item>done</item>
+          <item>finished</item>
+          <item>complete</item>
+          <item>end</item>
+          <item>finish</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>MULTI-SELECT</tag>
+        <one-of>
+          <item>multi-select</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>KEEP</tag>
+        <one-of>
+          <item>keep</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CLEAR</tag>
+        <one-of>
+          <item>clear</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>DESELECT</tag>
+        <one-of>
+          <item>deselect</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CUBE</tag>
+        <one-of>
+          <item>cube</item>
+          <item>box</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SPHERE</tag>
+        <one-of>
+          <item>sphere</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CONE</tag>
+        <one-of>
+          <item>cone</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CYLINDER</tag>
+        <one-of>
+          <item>cylinder</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CUP</tag>
+        <one-of>
+          <item>cup</item>
+          <item>mug</item>
+          <item>glass</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SOFA</tag>
+        <one-of>
+          <item>sofa</item>
+          <item>couch</item>
+          <item>seating</item>
+          <item>davenport</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>TABLE</tag>
+        <one-of>
+          <item>table</item>
+          <item>surface</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>BOOK</tag>
+        <one-of>
+          <item>book</item>
+          <item>textbook</item>
+          <item>paperback</item>
+          <item>hardcover</item>
+          <item>novel</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CHAIR</tag>
+        <one-of>
+          <item>chair</item>
+          <item>seat</item>
+          <item>seating</item>
+          <item>stool</item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

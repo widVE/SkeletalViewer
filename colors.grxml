@@ -1,0 +1,4986 @@
+<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+	<rule id="rootRule">
+		<one-of>
+			<item>
+				<tag>AQUA</tag>
+				<one-of>
+					<item>aqua</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ARMY GREEN</tag>
+				<one-of>
+					<item>army green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ARSENIC</tag>
+				<one-of>
+					<item>arsenic</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ARYLIDE YELLOW</tag>
+				<one-of>
+					<item>arylide yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ASH GREY</tag>
+				<one-of>
+					<item>ash grey</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ASPARAGUS</tag>
+				<one-of>
+					<item>asparagus</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ATOMIC TANGERINE</tag>
+				<one-of>
+					<item>atomic tangerine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>AUBURN</tag>
+				<one-of>
+					<item>auburn</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>AUREOLIN</tag>
+				<one-of>
+					<item>aureolin</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>AUROMETALSAURUS</tag>
+				<one-of>
+					<item>aurometalsaurus</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>AVOCADO</tag>
+				<one-of>
+					<item>avocado</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>AZURE</tag>
+				<one-of>
+					<item>azure</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>AZURE MISTWEB</tag>
+				<one-of>
+					<item>azure mistweb</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BABY BLUE</tag>
+				<one-of>
+					<item>baby blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BABY BLUE EYES</tag>
+				<one-of>
+					<item>baby blue eyes</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BABY PINK</tag>
+				<one-of>
+					<item>baby pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BALL BLUE</tag>
+				<one-of>
+					<item>ball blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BANANA MANIA</tag>
+				<one-of>
+					<item>banana mania</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BANANA YELLOW</tag>
+				<one-of>
+					<item>banana yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BARN RED</tag>
+				<one-of>
+					<item>barn red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BATTLESHIP GREY</tag>
+				<one-of>
+					<item>battleship grey</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BAZAAR</tag>
+				<one-of>
+					<item>bazaar</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BEAU BLUE</tag>
+				<one-of>
+					<item>beau blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BEAVER</tag>
+				<one-of>
+					<item>beaver</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BEIGE</tag>
+				<one-of>
+					<item>beige</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BIG DIP OÂ€™RUBY</tag>
+				<one-of>
+					<item>big dip oâ€™ruby</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BISQUE</tag>
+				<one-of>
+					<item>bisque</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BISTRE</tag>
+				<one-of>
+					<item>bistre</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BITTERSWEET</tag>
+				<one-of>
+					<item>bittersweet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BITTERSWEET SHIMMER</tag>
+				<one-of>
+					<item>bittersweet shimmer</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLACK</tag>
+				<one-of>
+					<item>black</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLACK BEAN</tag>
+				<one-of>
+					<item>black bean</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLACK LEATHER JACKET</tag>
+				<one-of>
+					<item>black leather jacket</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLACK OLIVE</tag>
+				<one-of>
+					<item>black olive</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLANCHED ALMOND</tag>
+				<one-of>
+					<item>blanched almond</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLAST-OFF BRONZE</tag>
+				<one-of>
+					<item>blast-off bronze</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLEU DE FRANCE</tag>
+				<one-of>
+					<item>bleu de france</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLIZZARD BLUE</tag>
+				<one-of>
+					<item>blizzard blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLOND</tag>
+				<one-of>
+					<item>blond</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE</tag>
+				<one-of>
+					<item>blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE BELL</tag>
+				<one-of>
+					<item>blue bell</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE CRAYOLA</tag>
+				<one-of>
+					<item>blue crayola</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE GRAY</tag>
+				<one-of>
+					<item>blue gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE-GREEN</tag>
+				<one-of>
+					<item>blue-green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE MUNSELL</tag>
+				<one-of>
+					<item>blue munsell</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE NCS</tag>
+				<one-of>
+					<item>blue ncs</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE PIGMENT</tag>
+				<one-of>
+					<item>blue pigment</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE RYB</tag>
+				<one-of>
+					<item>blue ryb</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE SAPPHIRE</tag>
+				<one-of>
+					<item>blue sapphire</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUE-VIOLET</tag>
+				<one-of>
+					<item>blue-violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BLUSH</tag>
+				<one-of>
+					<item>blush</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BOLE</tag>
+				<one-of>
+					<item>bole</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BONDI BLUE</tag>
+				<one-of>
+					<item>bondi blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BONE</tag>
+				<one-of>
+					<item>bone</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BOSTON UNIVERSITY RED</tag>
+				<one-of>
+					<item>boston university red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BOTTLE GREEN</tag>
+				<one-of>
+					<item>bottle green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BOYSENBERRY</tag>
+				<one-of>
+					<item>boysenberry</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRANDEIS BLUE</tag>
+				<one-of>
+					<item>brandeis blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRASS</tag>
+				<one-of>
+					<item>brass</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRICK RED</tag>
+				<one-of>
+					<item>brick red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRIGHT CERULEAN</tag>
+				<one-of>
+					<item>bright cerulean</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRIGHT GREEN</tag>
+				<one-of>
+					<item>bright green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRIGHT LAVENDER</tag>
+				<one-of>
+					<item>bright lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRIGHT MAROON</tag>
+				<one-of>
+					<item>bright maroon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRIGHT PINK</tag>
+				<one-of>
+					<item>bright pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRIGHT TURQUOISE</tag>
+				<one-of>
+					<item>bright turquoise</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRIGHT UBE</tag>
+				<one-of>
+					<item>bright ube</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRILLIANT LAVENDER</tag>
+				<one-of>
+					<item>brilliant lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRILLIANT ROSE</tag>
+				<one-of>
+					<item>brilliant rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRINK PINK</tag>
+				<one-of>
+					<item>brink pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRITISH RACING GREEN</tag>
+				<one-of>
+					<item>british racing green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BRONZE</tag>
+				<one-of>
+					<item>bronze</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BROWN TRADITIONAL</tag>
+				<one-of>
+					<item>brown traditional</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BROWN WEB</tag>
+				<one-of>
+					<item>brown web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BUBBLE GUM</tag>
+				<one-of>
+					<item>bubble gum</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BUBBLES</tag>
+				<one-of>
+					<item>bubbles</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BUFF</tag>
+				<one-of>
+					<item>buff</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BULGARIAN ROSE</tag>
+				<one-of>
+					<item>bulgarian rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BURGUNDY</tag>
+				<one-of>
+					<item>burgundy</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BURLYWOOD</tag>
+				<one-of>
+					<item>burlywood</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BURNT ORANGE</tag>
+				<one-of>
+					<item>burnt orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BURNT SIENNA</tag>
+				<one-of>
+					<item>burnt sienna</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BURNT UMBER</tag>
+				<one-of>
+					<item>burnt umber</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BYZANTINE</tag>
+				<one-of>
+					<item>byzantine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>BYZANTIUM</tag>
+				<one-of>
+					<item>byzantium</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CADET</tag>
+				<one-of>
+					<item>cadet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CADET BLUE</tag>
+				<one-of>
+					<item>cadet blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CADET GREY</tag>
+				<one-of>
+					<item>cadet grey</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CADMIUM GREEN</tag>
+				<one-of>
+					<item>cadmium green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CADMIUM ORANGE</tag>
+				<one-of>
+					<item>cadmium orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CADMIUM RED</tag>
+				<one-of>
+					<item>cadmium red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CADMIUM YELLOW</tag>
+				<one-of>
+					<item>cadmium yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAFE AU LAIT</tag>
+				<one-of>
+					<item>cafe au lait</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAFE NOIR</tag>
+				<one-of>
+					<item>cafe noir</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAL POLY GREEN</tag>
+				<one-of>
+					<item>cal poly green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAMBRIDGE BLUE</tag>
+				<one-of>
+					<item>cambridge blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAMEL</tag>
+				<one-of>
+					<item>camel</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAMEO PINK</tag>
+				<one-of>
+					<item>cameo pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAMOUFLAGE GREEN</tag>
+				<one-of>
+					<item>camouflage green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CANARY YELLOW</tag>
+				<one-of>
+					<item>canary yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CANDY APPLE RED</tag>
+				<one-of>
+					<item>candy apple red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CANDY PINK</tag>
+				<one-of>
+					<item>candy pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAPRI</tag>
+				<one-of>
+					<item>capri</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAPUT MORTUUM</tag>
+				<one-of>
+					<item>caput mortuum</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARDINAL</tag>
+				<one-of>
+					<item>cardinal</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARIBBEAN GREEN</tag>
+				<one-of>
+					<item>caribbean green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARMINE</tag>
+				<one-of>
+					<item>carmine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARMINE MP</tag>
+				<one-of>
+					<item>carmine mp</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARMINE PINK</tag>
+				<one-of>
+					<item>carmine pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARMINE RED</tag>
+				<one-of>
+					<item>carmine red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARNATION PINK</tag>
+				<one-of>
+					<item>carnation pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARNELIAN</tag>
+				<one-of>
+					<item>carnelian</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CAROLINA BLUE</tag>
+				<one-of>
+					<item>carolina blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CARROT ORANGE</tag>
+				<one-of>
+					<item>carrot orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CATALINA BLUE</tag>
+				<one-of>
+					<item>catalina blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CEIL</tag>
+				<one-of>
+					<item>ceil</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CELADON</tag>
+				<one-of>
+					<item>celadon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CELADON BLUE</tag>
+				<one-of>
+					<item>celadon blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CELADON GREEN</tag>
+				<one-of>
+					<item>celadon green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CELESTE COLOUR</tag>
+				<one-of>
+					<item>celeste colour</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CELESTIAL BLUE</tag>
+				<one-of>
+					<item>celestial blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CERISE</tag>
+				<one-of>
+					<item>cerise</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CERISE PINK</tag>
+				<one-of>
+					<item>cerise pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CERULEAN</tag>
+				<one-of>
+					<item>cerulean</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CERULEAN BLUE</tag>
+				<one-of>
+					<item>cerulean blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CERULEAN FROST</tag>
+				<one-of>
+					<item>cerulean frost</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CG BLUE</tag>
+				<one-of>
+					<item>cg blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CG RED</tag>
+				<one-of>
+					<item>cg red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHAMOISEE</tag>
+				<one-of>
+					<item>chamoisee</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHAMPAGNE</tag>
+				<one-of>
+					<item>champagne</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHARCOAL</tag>
+				<one-of>
+					<item>charcoal</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHARM PINK</tag>
+				<one-of>
+					<item>charm pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHARTREUSE TRADITIONAL</tag>
+				<one-of>
+					<item>chartreuse traditional</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHARTREUSE WEB</tag>
+				<one-of>
+					<item>chartreuse web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHERRY</tag>
+				<one-of>
+					<item>cherry</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHERRY BLOSSOM PINK</tag>
+				<one-of>
+					<item>cherry blossom pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHESTNUT</tag>
+				<one-of>
+					<item>chestnut</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHINA PINK</tag>
+				<one-of>
+					<item>china pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHINA ROSE</tag>
+				<one-of>
+					<item>china rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHINESE RED</tag>
+				<one-of>
+					<item>chinese red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHOCOLATE TRADITIONAL</tag>
+				<one-of>
+					<item>chocolate traditional</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHOCOLATE WEB</tag>
+				<one-of>
+					<item>chocolate web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CHROME YELLOW</tag>
+				<one-of>
+					<item>chrome yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CINEREOUS</tag>
+				<one-of>
+					<item>cinereous</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CINNABAR</tag>
+				<one-of>
+					<item>cinnabar</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CINNAMON</tag>
+				<one-of>
+					<item>cinnamon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CITRINE</tag>
+				<one-of>
+					<item>citrine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CLASSIC ROSE</tag>
+				<one-of>
+					<item>classic rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COBALT</tag>
+				<one-of>
+					<item>cobalt</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COCOA BROWN</tag>
+				<one-of>
+					<item>cocoa brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COFFEE</tag>
+				<one-of>
+					<item>coffee</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COLUMBIA BLUE</tag>
+				<one-of>
+					<item>columbia blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CONGO PINK</tag>
+				<one-of>
+					<item>congo pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COOL BLACK</tag>
+				<one-of>
+					<item>cool black</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COOL GREY</tag>
+				<one-of>
+					<item>cool grey</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COPPER</tag>
+				<one-of>
+					<item>copper</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COPPER CRAYOLA</tag>
+				<one-of>
+					<item>copper crayola</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COPPER PENNY</tag>
+				<one-of>
+					<item>copper penny</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COPPER RED</tag>
+				<one-of>
+					<item>copper red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COPPER ROSE</tag>
+				<one-of>
+					<item>copper rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COQUELICOT</tag>
+				<one-of>
+					<item>coquelicot</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CORAL</tag>
+				<one-of>
+					<item>coral</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CORAL PINK</tag>
+				<one-of>
+					<item>coral pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CORAL RED</tag>
+				<one-of>
+					<item>coral red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CORDOVAN</tag>
+				<one-of>
+					<item>cordovan</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CORN</tag>
+				<one-of>
+					<item>corn</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CORNELL RED</tag>
+				<one-of>
+					<item>cornell red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CORNFLOWER BLUE</tag>
+				<one-of>
+					<item>cornflower blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CORNSILK</tag>
+				<one-of>
+					<item>cornsilk</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COSMIC LATTE</tag>
+				<one-of>
+					<item>cosmic latte</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>COTTON CANDY</tag>
+				<one-of>
+					<item>cotton candy</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CREAM</tag>
+				<one-of>
+					<item>cream</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CRIMSON</tag>
+				<one-of>
+					<item>crimson</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CRIMSON GLORY</tag>
+				<one-of>
+					<item>crimson glory</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CYAN</tag>
+				<one-of>
+					<item>cyan</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>CYAN PROCESS</tag>
+				<one-of>
+					<item>cyan process</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DAFFODIL</tag>
+				<one-of>
+					<item>daffodil</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DANDELION</tag>
+				<one-of>
+					<item>dandelion</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK BLUE</tag>
+				<one-of>
+					<item>dark blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK BROWN</tag>
+				<one-of>
+					<item>dark brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK BYZANTIUM</tag>
+				<one-of>
+					<item>dark byzantium</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK CANDY APPLE RED</tag>
+				<one-of>
+					<item>dark candy apple red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK CERULEAN</tag>
+				<one-of>
+					<item>dark cerulean</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK CHESTNUT</tag>
+				<one-of>
+					<item>dark chestnut</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK CORAL</tag>
+				<one-of>
+					<item>dark coral</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK CYAN</tag>
+				<one-of>
+					<item>dark cyan</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK ELECTRIC BLUE</tag>
+				<one-of>
+					<item>dark electric blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK GOLDENROD</tag>
+				<one-of>
+					<item>dark goldenrod</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK GRAY</tag>
+				<one-of>
+					<item>dark gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK GREEN</tag>
+				<one-of>
+					<item>dark green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK IMPERIAL BLUE</tag>
+				<one-of>
+					<item>dark imperial blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK JUNGLE GREEN</tag>
+				<one-of>
+					<item>dark jungle green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK KHAKI</tag>
+				<one-of>
+					<item>dark khaki</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK LAVA</tag>
+				<one-of>
+					<item>dark lava</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK LAVENDER</tag>
+				<one-of>
+					<item>dark lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK MAGENTA</tag>
+				<one-of>
+					<item>dark magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK MIDNIGHT BLUE</tag>
+				<one-of>
+					<item>dark midnight blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK OLIVE GREEN</tag>
+				<one-of>
+					<item>dark olive green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK ORANGE</tag>
+				<one-of>
+					<item>dark orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK ORCHID</tag>
+				<one-of>
+					<item>dark orchid</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK PASTEL BLUE</tag>
+				<one-of>
+					<item>dark pastel blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK PASTEL GREEN</tag>
+				<one-of>
+					<item>dark pastel green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK PASTEL PURPLE</tag>
+				<one-of>
+					<item>dark pastel purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK PASTEL RED</tag>
+				<one-of>
+					<item>dark pastel red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK PINK</tag>
+				<one-of>
+					<item>dark pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK POWDER BLUE</tag>
+				<one-of>
+					<item>dark powder blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK RASPBERRY</tag>
+				<one-of>
+					<item>dark raspberry</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK RED</tag>
+				<one-of>
+					<item>dark red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK SALMON</tag>
+				<one-of>
+					<item>dark salmon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK SCARLET</tag>
+				<one-of>
+					<item>dark scarlet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK SEA GREEN</tag>
+				<one-of>
+					<item>dark sea green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK SIENNA</tag>
+				<one-of>
+					<item>dark sienna</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK SLATE BLUE</tag>
+				<one-of>
+					<item>dark slate blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK SLATE GRAY</tag>
+				<one-of>
+					<item>dark slate gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK SPRING GREEN</tag>
+				<one-of>
+					<item>dark spring green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK TAN</tag>
+				<one-of>
+					<item>dark tan</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK TANGERINE</tag>
+				<one-of>
+					<item>dark tangerine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK TAUPE</tag>
+				<one-of>
+					<item>dark taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK TERRA COTTA</tag>
+				<one-of>
+					<item>dark terra cotta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK TURQUOISE</tag>
+				<one-of>
+					<item>dark turquoise</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK VIOLET</tag>
+				<one-of>
+					<item>dark violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARK YELLOW</tag>
+				<one-of>
+					<item>dark yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DARTMOUTH GREEN</tag>
+				<one-of>
+					<item>dartmouth green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DAVYS GREY</tag>
+				<one-of>
+					<item>davys grey</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEBIAN RED</tag>
+				<one-of>
+					<item>debian red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP CARMINE</tag>
+				<one-of>
+					<item>deep carmine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP CARMINE PINK</tag>
+				<one-of>
+					<item>deep carmine pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP CARROT ORANGE</tag>
+				<one-of>
+					<item>deep carrot orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP CERISE</tag>
+				<one-of>
+					<item>deep cerise</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP CHAMPAGNE</tag>
+				<one-of>
+					<item>deep champagne</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP CHESTNUT</tag>
+				<one-of>
+					<item>deep chestnut</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP COFFEE</tag>
+				<one-of>
+					<item>deep coffee</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP FUCHSIA</tag>
+				<one-of>
+					<item>deep fuchsia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP JUNGLE GREEN</tag>
+				<one-of>
+					<item>deep jungle green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP LILAC</tag>
+				<one-of>
+					<item>deep lilac</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP MAGENTA</tag>
+				<one-of>
+					<item>deep magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP PEACH</tag>
+				<one-of>
+					<item>deep peach</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP PINK</tag>
+				<one-of>
+					<item>deep pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP RUBY</tag>
+				<one-of>
+					<item>deep ruby</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP SAFFRON</tag>
+				<one-of>
+					<item>deep saffron</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP SKY BLUE</tag>
+				<one-of>
+					<item>deep sky blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DEEP TUSCAN RED</tag>
+				<one-of>
+					<item>deep tuscan red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DENIM</tag>
+				<one-of>
+					<item>denim</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DESERT</tag>
+				<one-of>
+					<item>desert</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DESERT SAND</tag>
+				<one-of>
+					<item>desert sand</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DIM GRAY</tag>
+				<one-of>
+					<item>dim gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DODGER BLUE</tag>
+				<one-of>
+					<item>dodger blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DOGWOOD ROSE</tag>
+				<one-of>
+					<item>dogwood rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DOLLAR BILL</tag>
+				<one-of>
+					<item>dollar bill</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DRAB</tag>
+				<one-of>
+					<item>drab</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>DUKE BLUE</tag>
+				<one-of>
+					<item>duke blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>EARTH YELLOW</tag>
+				<one-of>
+					<item>earth yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>EBONY</tag>
+				<one-of>
+					<item>ebony</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ECRU</tag>
+				<one-of>
+					<item>ecru</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>EGGPLANT</tag>
+				<one-of>
+					<item>eggplant</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>EGGSHELL</tag>
+				<one-of>
+					<item>eggshell</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>EGYPTIAN BLUE</tag>
+				<one-of>
+					<item>egyptian blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC BLUE</tag>
+				<one-of>
+					<item>electric blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC CRIMSON</tag>
+				<one-of>
+					<item>electric crimson</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC CYAN</tag>
+				<one-of>
+					<item>electric cyan</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC GREEN</tag>
+				<one-of>
+					<item>electric green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC INDIGO</tag>
+				<one-of>
+					<item>electric indigo</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC LAVENDER</tag>
+				<one-of>
+					<item>electric lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC LIME</tag>
+				<one-of>
+					<item>electric lime</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC PURPLE</tag>
+				<one-of>
+					<item>electric purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC ULTRAMARINE</tag>
+				<one-of>
+					<item>electric ultramarine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC VIOLET</tag>
+				<one-of>
+					<item>electric violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ELECTRIC YELLOW</tag>
+				<one-of>
+					<item>electric yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>EMERALD</tag>
+				<one-of>
+					<item>emerald</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ENGLISH LAVENDER</tag>
+				<one-of>
+					<item>english lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ETON BLUE</tag>
+				<one-of>
+					<item>eton blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FALLOW</tag>
+				<one-of>
+					<item>fallow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FALU RED</tag>
+				<one-of>
+					<item>falu red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FANDANGO</tag>
+				<one-of>
+					<item>fandango</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FASHION FUCHSIA</tag>
+				<one-of>
+					<item>fashion fuchsia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FAWN</tag>
+				<one-of>
+					<item>fawn</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FELDGRAU</tag>
+				<one-of>
+					<item>feldgrau</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FERN GREEN</tag>
+				<one-of>
+					<item>fern green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FERRARI RED</tag>
+				<one-of>
+					<item>ferrari red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FIELD DRAB</tag>
+				<one-of>
+					<item>field drab</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FIRE ENGINE RED</tag>
+				<one-of>
+					<item>fire engine red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FIREBRICK</tag>
+				<one-of>
+					<item>firebrick</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FLAME</tag>
+				<one-of>
+					<item>flame</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FLAMINGO PINK</tag>
+				<one-of>
+					<item>flamingo pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FLAVESCENT</tag>
+				<one-of>
+					<item>flavescent</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FLAX</tag>
+				<one-of>
+					<item>flax</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FLORAL WHITE</tag>
+				<one-of>
+					<item>floral white</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FLUORESCENT ORANGE</tag>
+				<one-of>
+					<item>fluorescent orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FLUORESCENT PINK</tag>
+				<one-of>
+					<item>fluorescent pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FLUORESCENT YELLOW</tag>
+				<one-of>
+					<item>fluorescent yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FOLLY</tag>
+				<one-of>
+					<item>folly</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FOREST GREEN TRADITIONAL</tag>
+				<one-of>
+					<item>forest green traditional</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FOREST GREEN WEB</tag>
+				<one-of>
+					<item>forest green web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FRENCH BEIGE</tag>
+				<one-of>
+					<item>french beige</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FRENCH BLUE</tag>
+				<one-of>
+					<item>french blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FRENCH LILAC</tag>
+				<one-of>
+					<item>french lilac</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FRENCH LIME</tag>
+				<one-of>
+					<item>french lime</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FRENCH RASPBERRY</tag>
+				<one-of>
+					<item>french raspberry</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FRENCH ROSE</tag>
+				<one-of>
+					<item>french rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FUCHSIA</tag>
+				<one-of>
+					<item>fuchsia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FUCHSIA CRAYOLA</tag>
+				<one-of>
+					<item>fuchsia crayola</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FUCHSIA PINK</tag>
+				<one-of>
+					<item>fuchsia pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FUCHSIA ROSE</tag>
+				<one-of>
+					<item>fuchsia rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FULVOUS</tag>
+				<one-of>
+					<item>fulvous</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>FUZZY WUZZY</tag>
+				<one-of>
+					<item>fuzzy wuzzy</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GAINSBORO</tag>
+				<one-of>
+					<item>gainsboro</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GAMBOGE</tag>
+				<one-of>
+					<item>gamboge</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GHOST WHITE</tag>
+				<one-of>
+					<item>ghost white</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GINGER</tag>
+				<one-of>
+					<item>ginger</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GLAUCOUS</tag>
+				<one-of>
+					<item>glaucous</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GLITTER</tag>
+				<one-of>
+					<item>glitter</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GOLD METALLIC</tag>
+				<one-of>
+					<item>gold metallic</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GOLD WEB GOLDEN</tag>
+				<one-of>
+					<item>gold web golden</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GOLDEN BROWN</tag>
+				<one-of>
+					<item>golden brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GOLDEN POPPY</tag>
+				<one-of>
+					<item>golden poppy</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GOLDEN YELLOW</tag>
+				<one-of>
+					<item>golden yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GOLDENROD</tag>
+				<one-of>
+					<item>goldenrod</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GRANNY SMITH APPLE</tag>
+				<one-of>
+					<item>granny smith apple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GRAY</tag>
+				<one-of>
+					<item>gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GRAY-ASPARAGUS</tag>
+				<one-of>
+					<item>gray-asparagus</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GRAY</tag>
+				<one-of>
+					<item>gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GRAY X11 GRAY</tag>
+				<one-of>
+					<item>gray x11 gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GREEN COLOR WHEEL X11 GREEN</tag>
+				<one-of>
+					<item>green color wheel x11 green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GREEN CRAYOLA</tag>
+				<one-of>
+					<item>green crayola</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GREEN</tag>
+				<one-of>
+					<item>green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GREEN MUNSELL</tag>
+				<one-of>
+					<item>green munsell</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GREEN NCS</tag>
+				<one-of>
+					<item>green ncs</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GREEN PIGMENT</tag>
+				<one-of>
+					<item>green pigment</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GREEN RYB</tag>
+				<one-of>
+					<item>green ryb</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GREEN-YELLOW</tag>
+				<one-of>
+					<item>green-yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GRULLO</tag>
+				<one-of>
+					<item>grullo</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>GUPPIE GREEN</tag>
+				<one-of>
+					<item>guppie green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HALAYÃ  ÃºBE</tag>
+				<one-of>
+					<item>halayã  ãºbe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HAN BLUE</tag>
+				<one-of>
+					<item>han blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HAN PURPLE</tag>
+				<one-of>
+					<item>han purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HANSA YELLOW</tag>
+				<one-of>
+					<item>hansa yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HARLEQUIN</tag>
+				<one-of>
+					<item>harlequin</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HARVARD CRIMSON</tag>
+				<one-of>
+					<item>harvard crimson</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HARVEST GOLD</tag>
+				<one-of>
+					<item>harvest gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HEART GOLD</tag>
+				<one-of>
+					<item>heart gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HELIOTROPE</tag>
+				<one-of>
+					<item>heliotrope</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HOLLYWOOD CERISE</tag>
+				<one-of>
+					<item>hollywood cerise</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HONEYDEW</tag>
+				<one-of>
+					<item>honeydew</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HONOLULU BLUE</tag>
+				<one-of>
+					<item>honolulu blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HOOKERS GREEN</tag>
+				<one-of>
+					<item>hookers green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HOT MAGENTA</tag>
+				<one-of>
+					<item>hot magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HOT PINK</tag>
+				<one-of>
+					<item>hot pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>HUNTER GREEN</tag>
+				<one-of>
+					<item>hunter green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ICEBERG</tag>
+				<one-of>
+					<item>iceberg</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ICTERINE</tag>
+				<one-of>
+					<item>icterine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>IMPERIAL BLUE</tag>
+				<one-of>
+					<item>imperial blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INCHWORM</tag>
+				<one-of>
+					<item>inchworm</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INDIA GREEN</tag>
+				<one-of>
+					<item>india green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INDIAN RED</tag>
+				<one-of>
+					<item>indian red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INDIAN YELLOW</tag>
+				<one-of>
+					<item>indian yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INDIGO</tag>
+				<one-of>
+					<item>indigo</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INDIGO DYE</tag>
+				<one-of>
+					<item>indigo dye</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INDIGO WEB</tag>
+				<one-of>
+					<item>indigo web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INTERNATIONAL KLEIN BLUE</tag>
+				<one-of>
+					<item>international klein blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INTERNATIONAL ORANGE AEROSPACE</tag>
+				<one-of>
+					<item>international orange aerospace</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INTERNATIONAL ORANGE ENGINEERING</tag>
+				<one-of>
+					<item>international orange engineering</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>INTERNATIONAL ORANGE GOLDEN GATE BRIDGE</tag>
+				<one-of>
+					<item>international orange golden gate bridge</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>IRIS</tag>
+				<one-of>
+					<item>iris</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ISABELLINE</tag>
+				<one-of>
+					<item>isabelline</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ISLAMIC GREEN</tag>
+				<one-of>
+					<item>islamic green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>IVORY</tag>
+				<one-of>
+					<item>ivory</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>JADE</tag>
+				<one-of>
+					<item>jade</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>JASMINE</tag>
+				<one-of>
+					<item>jasmine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>JASPER</tag>
+				<one-of>
+					<item>jasper</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>JAZZBERRY JAM</tag>
+				<one-of>
+					<item>jazzberry jam</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>JET</tag>
+				<one-of>
+					<item>jet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>JONQUIL</tag>
+				<one-of>
+					<item>jonquil</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>JUNE BUD</tag>
+				<one-of>
+					<item>june bud</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>JUNGLE GREEN</tag>
+				<one-of>
+					<item>jungle green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>KELLY GREEN</tag>
+				<one-of>
+					<item>kelly green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>KENYAN COPPER</tag>
+				<one-of>
+					<item>kenyan copper</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>KHAKI</tag>
+				<one-of>
+					<item>khaki</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>KHAKI X11 LIGHT KHAKI</tag>
+				<one-of>
+					<item>khaki x11 light khaki</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>KU CRIMSON</tag>
+				<one-of>
+					<item>ku crimson</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LA SALLE GREEN</tag>
+				<one-of>
+					<item>la salle green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LANGUID LAVENDER</tag>
+				<one-of>
+					<item>languid lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAPIS LAZULI</tag>
+				<one-of>
+					<item>lapis lazuli</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LASER LEMON</tag>
+				<one-of>
+					<item>laser lemon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAUREL GREEN</tag>
+				<one-of>
+					<item>laurel green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVA</tag>
+				<one-of>
+					<item>lava</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER BLUE</tag>
+				<one-of>
+					<item>lavender blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER BLUSH</tag>
+				<one-of>
+					<item>lavender blush</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER FLORAL</tag>
+				<one-of>
+					<item>lavender floral</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER GRAY</tag>
+				<one-of>
+					<item>lavender gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER INDIGO</tag>
+				<one-of>
+					<item>lavender indigo</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER MAGENTA</tag>
+				<one-of>
+					<item>lavender magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER MIST</tag>
+				<one-of>
+					<item>lavender mist</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER PINK</tag>
+				<one-of>
+					<item>lavender pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER PURPLE</tag>
+				<one-of>
+					<item>lavender purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER ROSE</tag>
+				<one-of>
+					<item>lavender rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAVENDER WEB</tag>
+				<one-of>
+					<item>lavender web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LAWN GREEN</tag>
+				<one-of>
+					<item>lawn green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LEMON</tag>
+				<one-of>
+					<item>lemon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LEMON CHIFFON</tag>
+				<one-of>
+					<item>lemon chiffon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LEMON LIME</tag>
+				<one-of>
+					<item>lemon lime</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LICORICE</tag>
+				<one-of>
+					<item>licorice</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT APRICOT</tag>
+				<one-of>
+					<item>light apricot</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT BLUE</tag>
+				<one-of>
+					<item>light blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT BROWN</tag>
+				<one-of>
+					<item>light brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT CARMINE PINK</tag>
+				<one-of>
+					<item>light carmine pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT CORAL</tag>
+				<one-of>
+					<item>light coral</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT CORNFLOWER BLUE</tag>
+				<one-of>
+					<item>light cornflower blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT CRIMSON</tag>
+				<one-of>
+					<item>light crimson</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT CYAN</tag>
+				<one-of>
+					<item>light cyan</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT FUCHSIA PINK</tag>
+				<one-of>
+					<item>light fuchsia pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT GOLDENROD YELLOW</tag>
+				<one-of>
+					<item>light goldenrod yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT GRAY</tag>
+				<one-of>
+					<item>light gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT GREEN</tag>
+				<one-of>
+					<item>light green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT KHAKI</tag>
+				<one-of>
+					<item>light khaki</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT PASTEL PURPLE</tag>
+				<one-of>
+					<item>light pastel purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT PINK</tag>
+				<one-of>
+					<item>light pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT RED OCHRE</tag>
+				<one-of>
+					<item>light red ochre</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT SALMON</tag>
+				<one-of>
+					<item>light salmon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT SALMON PINK</tag>
+				<one-of>
+					<item>light salmon pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT SEA GREEN</tag>
+				<one-of>
+					<item>light sea green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT SKY BLUE</tag>
+				<one-of>
+					<item>light sky blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT SLATE GRAY</tag>
+				<one-of>
+					<item>light slate gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT TAUPE</tag>
+				<one-of>
+					<item>light taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT THULIAN PINK</tag>
+				<one-of>
+					<item>light thulian pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIGHT YELLOW</tag>
+				<one-of>
+					<item>light yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LILAC</tag>
+				<one-of>
+					<item>lilac</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIME COLOR WHEEL</tag>
+				<one-of>
+					<item>lime color wheel</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIME GREEN</tag>
+				<one-of>
+					<item>lime green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIME WEB X11 GREEN</tag>
+				<one-of>
+					<item>lime web x11 green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIMERICK</tag>
+				<one-of>
+					<item>limerick</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LINCOLN GREEN</tag>
+				<one-of>
+					<item>lincoln green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LINEN</tag>
+				<one-of>
+					<item>linen</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LION</tag>
+				<one-of>
+					<item>lion</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LITTLE BOY BLUE</tag>
+				<one-of>
+					<item>little boy blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LIVER</tag>
+				<one-of>
+					<item>liver</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>LUST</tag>
+				<one-of>
+					<item>lust</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAGENTA</tag>
+				<one-of>
+					<item>magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAGENTA DYE</tag>
+				<one-of>
+					<item>magenta dye</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAGENTA PROCESS</tag>
+				<one-of>
+					<item>magenta process</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAGIC MINT</tag>
+				<one-of>
+					<item>magic mint</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAGNOLIA</tag>
+				<one-of>
+					<item>magnolia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAHOGANY</tag>
+				<one-of>
+					<item>mahogany</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAIZE</tag>
+				<one-of>
+					<item>maize</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAJORELLE BLUE</tag>
+				<one-of>
+					<item>majorelle blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MALACHITE</tag>
+				<one-of>
+					<item>malachite</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MANATEE</tag>
+				<one-of>
+					<item>manatee</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MANGO TANGO</tag>
+				<one-of>
+					<item>mango tango</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MANTIS</tag>
+				<one-of>
+					<item>mantis</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MARDI GRAS</tag>
+				<one-of>
+					<item>mardi gras</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAROON CRAYOLA</tag>
+				<one-of>
+					<item>maroon crayola</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAROON</tag>
+				<one-of>
+					<item>maroon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAROON X11</tag>
+				<one-of>
+					<item>maroon x11</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAUVE</tag>
+				<one-of>
+					<item>mauve</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAUVE TAUPE</tag>
+				<one-of>
+					<item>mauve taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAUVELOUS</tag>
+				<one-of>
+					<item>mauvelous</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MAYA BLUE</tag>
+				<one-of>
+					<item>maya blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEAT BROWN</tag>
+				<one-of>
+					<item>meat brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM AQUAMARINE</tag>
+				<one-of>
+					<item>medium aquamarine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM BLUE</tag>
+				<one-of>
+					<item>medium blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM CANDY APPLE RED</tag>
+				<one-of>
+					<item>medium candy apple red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM CARMINE</tag>
+				<one-of>
+					<item>medium carmine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM CHAMPAGNE</tag>
+				<one-of>
+					<item>medium champagne</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM ELECTRIC BLUE</tag>
+				<one-of>
+					<item>medium electric blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM JUNGLE GREEN</tag>
+				<one-of>
+					<item>medium jungle green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM LAVENDER MAGENTA</tag>
+				<one-of>
+					<item>medium lavender magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM ORCHID</tag>
+				<one-of>
+					<item>medium orchid</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM PERSIAN BLUE</tag>
+				<one-of>
+					<item>medium persian blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM PURPLE</tag>
+				<one-of>
+					<item>medium purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM RED-VIOLET</tag>
+				<one-of>
+					<item>medium red-violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM RUBY</tag>
+				<one-of>
+					<item>medium ruby</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM SEA GREEN</tag>
+				<one-of>
+					<item>medium sea green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM SLATE BLUE</tag>
+				<one-of>
+					<item>medium slate blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM SPRING BUD</tag>
+				<one-of>
+					<item>medium spring bud</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM SPRING GREEN</tag>
+				<one-of>
+					<item>medium spring green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM TAUPE</tag>
+				<one-of>
+					<item>medium taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM TURQUOISE</tag>
+				<one-of>
+					<item>medium turquoise</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM TUSCAN RED</tag>
+				<one-of>
+					<item>medium tuscan red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM VERMILION</tag>
+				<one-of>
+					<item>medium vermilion</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MEDIUM VIOLET-RED</tag>
+				<one-of>
+					<item>medium violet-red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MELLOW APRICOT</tag>
+				<one-of>
+					<item>mellow apricot</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MELLOW YELLOW</tag>
+				<one-of>
+					<item>mellow yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MELON</tag>
+				<one-of>
+					<item>melon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MIDNIGHT BLUE</tag>
+				<one-of>
+					<item>midnight blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MIDNIGHT GREEN EAGLE GREEN</tag>
+				<one-of>
+					<item>midnight green eagle green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MIKADO YELLOW</tag>
+				<one-of>
+					<item>mikado yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MINT</tag>
+				<one-of>
+					<item>mint</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MINT CREAM</tag>
+				<one-of>
+					<item>mint cream</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MINT GREEN</tag>
+				<one-of>
+					<item>mint green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MISTY ROSE</tag>
+				<one-of>
+					<item>misty rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MOCCASIN</tag>
+				<one-of>
+					<item>moccasin</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MODE BEIGE</tag>
+				<one-of>
+					<item>mode beige</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MOONSTONE BLUE</tag>
+				<one-of>
+					<item>moonstone blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MORDANT RED 19</tag>
+				<one-of>
+					<item>mordant red 19</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MOSS GREEN</tag>
+				<one-of>
+					<item>moss green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MOUNTAIN MEADOW</tag>
+				<one-of>
+					<item>mountain meadow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MOUNTBATTEN PINK</tag>
+				<one-of>
+					<item>mountbatten pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MSU GREEN</tag>
+				<one-of>
+					<item>msu green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MULBERRY</tag>
+				<one-of>
+					<item>mulberry</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MUSTARD</tag>
+				<one-of>
+					<item>mustard</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>MYRTLE</tag>
+				<one-of>
+					<item>myrtle</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NADESHIKO PINK</tag>
+				<one-of>
+					<item>nadeshiko pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NAPIER GREEN</tag>
+				<one-of>
+					<item>napier green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NAPLES YELLOW</tag>
+				<one-of>
+					<item>naples yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NAVAJO WHITE</tag>
+				<one-of>
+					<item>navajo white</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NAVY BLUE</tag>
+				<one-of>
+					<item>navy blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NEON CARROT</tag>
+				<one-of>
+					<item>neon carrot</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NEON FUCHSIA</tag>
+				<one-of>
+					<item>neon fuchsia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NEON GREEN</tag>
+				<one-of>
+					<item>neon green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NEW YORK PINK</tag>
+				<one-of>
+					<item>new york pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NON-PHOTO BLUE</tag>
+				<one-of>
+					<item>non-photo blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>NORTH TEXAS GREEN</tag>
+				<one-of>
+					<item>north texas green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OCEAN BOAT BLUE</tag>
+				<one-of>
+					<item>ocean boat blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OCHRE</tag>
+				<one-of>
+					<item>ochre</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OFFICE GREEN</tag>
+				<one-of>
+					<item>office green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLD GOLD</tag>
+				<one-of>
+					<item>old gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLD LACE</tag>
+				<one-of>
+					<item>old lace</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLD LAVENDER</tag>
+				<one-of>
+					<item>old lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLD MAUVE</tag>
+				<one-of>
+					<item>old mauve</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLD ROSE</tag>
+				<one-of>
+					<item>old rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLIVE</tag>
+				<one-of>
+					<item>olive</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLIVE DRAB #7</tag>
+				<one-of>
+					<item>olive drab #7</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLIVE DRAB WEB OLIVE DRAB #3</tag>
+				<one-of>
+					<item>olive drab web olive drab #3</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OLIVINE</tag>
+				<one-of>
+					<item>olivine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ONYX</tag>
+				<one-of>
+					<item>onyx</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OPERA MAUVE</tag>
+				<one-of>
+					<item>opera mauve</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ORANGE</tag>
+				<one-of>
+					<item>orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ORANGE PEEL</tag>
+				<one-of>
+					<item>orange peel</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ORANGE-RED</tag>
+				<one-of>
+					<item>orange-red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ORANGE RYB</tag>
+				<one-of>
+					<item>orange ryb</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ORANGE WEB COLOR</tag>
+				<one-of>
+					<item>orange web color</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ORCHID</tag>
+				<one-of>
+					<item>orchid</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OTTER BROWN</tag>
+				<one-of>
+					<item>otter brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OU CRIMSON RED</tag>
+				<one-of>
+					<item>ou crimson red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OUTER SPACE</tag>
+				<one-of>
+					<item>outer space</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OUTRAGEOUS ORANGE</tag>
+				<one-of>
+					<item>outrageous orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>OXFORD BLUE</tag>
+				<one-of>
+					<item>oxford blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PAKISTAN GREEN</tag>
+				<one-of>
+					<item>pakistan green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALATINATE BLUE</tag>
+				<one-of>
+					<item>palatinate blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALATINATE PURPLE</tag>
+				<one-of>
+					<item>palatinate purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE AQUA</tag>
+				<one-of>
+					<item>pale aqua</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE BLUE</tag>
+				<one-of>
+					<item>pale blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE BROWN</tag>
+				<one-of>
+					<item>pale brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE CARMINE</tag>
+				<one-of>
+					<item>pale carmine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE CERULEAN</tag>
+				<one-of>
+					<item>pale cerulean</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE CHESTNUT</tag>
+				<one-of>
+					<item>pale chestnut</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE COPPER</tag>
+				<one-of>
+					<item>pale copper</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE CORNFLOWER BLUE</tag>
+				<one-of>
+					<item>pale cornflower blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE GOLD</tag>
+				<one-of>
+					<item>pale gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE GOLDENROD</tag>
+				<one-of>
+					<item>pale goldenrod</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE GREEN</tag>
+				<one-of>
+					<item>pale green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE LAVENDER</tag>
+				<one-of>
+					<item>pale lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE MAGENTA</tag>
+				<one-of>
+					<item>pale magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE PINK</tag>
+				<one-of>
+					<item>pale pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE PLUM</tag>
+				<one-of>
+					<item>pale plum</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE RED-VIOLET</tag>
+				<one-of>
+					<item>pale red-violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE ROBIN EGG BLUE</tag>
+				<one-of>
+					<item>pale robin egg blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE SILVER</tag>
+				<one-of>
+					<item>pale silver</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE SPRING BUD</tag>
+				<one-of>
+					<item>pale spring bud</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE TAUPE</tag>
+				<one-of>
+					<item>pale taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PALE VIOLET-RED</tag>
+				<one-of>
+					<item>pale violet-red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PANSY PURPLE</tag>
+				<one-of>
+					<item>pansy purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PAPAYA WHIP</tag>
+				<one-of>
+					<item>papaya whip</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PARIS GREEN</tag>
+				<one-of>
+					<item>paris green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL BLUE</tag>
+				<one-of>
+					<item>pastel blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL BROWN</tag>
+				<one-of>
+					<item>pastel brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL GRAY</tag>
+				<one-of>
+					<item>pastel gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL GREEN</tag>
+				<one-of>
+					<item>pastel green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL MAGENTA</tag>
+				<one-of>
+					<item>pastel magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL ORANGE</tag>
+				<one-of>
+					<item>pastel orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL PINK</tag>
+				<one-of>
+					<item>pastel pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL PURPLE</tag>
+				<one-of>
+					<item>pastel purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL RED</tag>
+				<one-of>
+					<item>pastel red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL VIOLET</tag>
+				<one-of>
+					<item>pastel violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PASTEL YELLOW</tag>
+				<one-of>
+					<item>pastel yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PATRIARCH</tag>
+				<one-of>
+					<item>patriarch</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PAYNES GREY</tag>
+				<one-of>
+					<item>paynes grey</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEACH</tag>
+				<one-of>
+					<item>peach</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEACH CRAYOLA</tag>
+				<one-of>
+					<item>peach crayola</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEACH-ORANGE</tag>
+				<one-of>
+					<item>peach-orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEACH PUFF</tag>
+				<one-of>
+					<item>peach puff</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEACH-YELLOW</tag>
+				<one-of>
+					<item>peach-yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEAR</tag>
+				<one-of>
+					<item>pear</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEARL</tag>
+				<one-of>
+					<item>pearl</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEARL AQUA</tag>
+				<one-of>
+					<item>pearl aqua</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PEARLY PURPLE</tag>
+				<one-of>
+					<item>pearly purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERIDOT</tag>
+				<one-of>
+					<item>peridot</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERIWINKLE</tag>
+				<one-of>
+					<item>periwinkle</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIAN BLUE</tag>
+				<one-of>
+					<item>persian blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIAN GREEN</tag>
+				<one-of>
+					<item>persian green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIAN INDIGO</tag>
+				<one-of>
+					<item>persian indigo</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIAN ORANGE</tag>
+				<one-of>
+					<item>persian orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIAN PINK</tag>
+				<one-of>
+					<item>persian pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIAN PLUM</tag>
+				<one-of>
+					<item>persian plum</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIAN RED</tag>
+				<one-of>
+					<item>persian red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIAN ROSE</tag>
+				<one-of>
+					<item>persian rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERSIMMON</tag>
+				<one-of>
+					<item>persimmon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PERU</tag>
+				<one-of>
+					<item>peru</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PHLOX</tag>
+				<one-of>
+					<item>phlox</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PHTHALO BLUE</tag>
+				<one-of>
+					<item>phthalo blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PHTHALO GREEN</tag>
+				<one-of>
+					<item>phthalo green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PIGGY PINK</tag>
+				<one-of>
+					<item>piggy pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PINE GREEN</tag>
+				<one-of>
+					<item>pine green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PINK</tag>
+				<one-of>
+					<item>pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PINK LACE</tag>
+				<one-of>
+					<item>pink lace</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PINK-ORANGE</tag>
+				<one-of>
+					<item>pink-orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PINK PEARL</tag>
+				<one-of>
+					<item>pink pearl</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PINK SHERBET</tag>
+				<one-of>
+					<item>pink sherbet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PISTACHIO</tag>
+				<one-of>
+					<item>pistachio</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PLATINUM</tag>
+				<one-of>
+					<item>platinum</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PLUM TRADITIONAL</tag>
+				<one-of>
+					<item>plum traditional</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PLUM WEB</tag>
+				<one-of>
+					<item>plum web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PORTLAND ORANGE</tag>
+				<one-of>
+					<item>portland orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>POWDER BLUE WEB</tag>
+				<one-of>
+					<item>powder blue web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PRINCETON ORANGE</tag>
+				<one-of>
+					<item>princeton orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PRUNE</tag>
+				<one-of>
+					<item>prune</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PRUSSIAN BLUE</tag>
+				<one-of>
+					<item>prussian blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PSYCHEDELIC PURPLE</tag>
+				<one-of>
+					<item>psychedelic purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PUCE</tag>
+				<one-of>
+					<item>puce</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PUMPKIN</tag>
+				<one-of>
+					<item>pumpkin</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PURPLE HEART</tag>
+				<one-of>
+					<item>purple heart</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PURPLE</tag>
+				<one-of>
+					<item>purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PURPLE MOUNTAIN MAJESTY</tag>
+				<one-of>
+					<item>purple mountain majesty</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PURPLE MUNSELL</tag>
+				<one-of>
+					<item>purple munsell</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PURPLE PIZZAZZ</tag>
+				<one-of>
+					<item>purple pizzazz</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PURPLE TAUPE</tag>
+				<one-of>
+					<item>purple taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>PURPLE X11</tag>
+				<one-of>
+					<item>purple x11</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>QUARTZ</tag>
+				<one-of>
+					<item>quartz</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RACKLEY</tag>
+				<one-of>
+					<item>rackley</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RADICAL RED</tag>
+				<one-of>
+					<item>radical red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RAJAH</tag>
+				<one-of>
+					<item>rajah</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RASPBERRY</tag>
+				<one-of>
+					<item>raspberry</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RASPBERRY GLACE</tag>
+				<one-of>
+					<item>raspberry glace</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RASPBERRY PINK</tag>
+				<one-of>
+					<item>raspberry pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RASPBERRY ROSE</tag>
+				<one-of>
+					<item>raspberry rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RAW UMBER</tag>
+				<one-of>
+					<item>raw umber</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RAZZLE DAZZLE ROSE</tag>
+				<one-of>
+					<item>razzle dazzle rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RAZZMATAZZ</tag>
+				<one-of>
+					<item>razzmatazz</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED</tag>
+				<one-of>
+					<item>red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED-BROWN</tag>
+				<one-of>
+					<item>red-brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED DEVIL</tag>
+				<one-of>
+					<item>red devil</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED MUNSELL</tag>
+				<one-of>
+					<item>red munsell</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED NCS</tag>
+				<one-of>
+					<item>red ncs</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED-ORANGE</tag>
+				<one-of>
+					<item>red-orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED PIGMENT</tag>
+				<one-of>
+					<item>red pigment</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED RYB</tag>
+				<one-of>
+					<item>red ryb</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RED-VIOLET</tag>
+				<one-of>
+					<item>red-violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>REDWOOD</tag>
+				<one-of>
+					<item>redwood</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>REGALIA</tag>
+				<one-of>
+					<item>regalia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RESOLUTION BLUE</tag>
+				<one-of>
+					<item>resolution blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RICH BLACK</tag>
+				<one-of>
+					<item>rich black</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RICH BRILLIANT LAVENDER</tag>
+				<one-of>
+					<item>rich brilliant lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RICH CARMINE</tag>
+				<one-of>
+					<item>rich carmine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RICH ELECTRIC BLUE</tag>
+				<one-of>
+					<item>rich electric blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RICH LAVENDER</tag>
+				<one-of>
+					<item>rich lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RICH LILAC</tag>
+				<one-of>
+					<item>rich lilac</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RICH MAROON</tag>
+				<one-of>
+					<item>rich maroon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RIFLE GREEN</tag>
+				<one-of>
+					<item>rifle green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROBIN EGG BLUE</tag>
+				<one-of>
+					<item>robin egg blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE</tag>
+				<one-of>
+					<item>rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE BONBON</tag>
+				<one-of>
+					<item>rose bonbon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE EBONY</tag>
+				<one-of>
+					<item>rose ebony</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE GOLD</tag>
+				<one-of>
+					<item>rose gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE MADDER</tag>
+				<one-of>
+					<item>rose madder</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE PINK</tag>
+				<one-of>
+					<item>rose pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE QUARTZ</tag>
+				<one-of>
+					<item>rose quartz</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE TAUPE</tag>
+				<one-of>
+					<item>rose taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSE VALE</tag>
+				<one-of>
+					<item>rose vale</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSEWOOD</tag>
+				<one-of>
+					<item>rosewood</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSSO CORSA</tag>
+				<one-of>
+					<item>rosso corsa</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROSY BROWN</tag>
+				<one-of>
+					<item>rosy brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROYAL AZURE</tag>
+				<one-of>
+					<item>royal azure</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROYAL BLUE TRADITIONAL</tag>
+				<one-of>
+					<item>royal blue traditional</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROYAL BLUE WEB</tag>
+				<one-of>
+					<item>royal blue web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROYAL FUCHSIA</tag>
+				<one-of>
+					<item>royal fuchsia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROYAL PURPLE</tag>
+				<one-of>
+					<item>royal purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ROYAL YELLOW</tag>
+				<one-of>
+					<item>royal yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUBINE RED</tag>
+				<one-of>
+					<item>rubine red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUBY</tag>
+				<one-of>
+					<item>ruby</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUBY RED</tag>
+				<one-of>
+					<item>ruby red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUDDY</tag>
+				<one-of>
+					<item>ruddy</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUDDY BROWN</tag>
+				<one-of>
+					<item>ruddy brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUDDY PINK</tag>
+				<one-of>
+					<item>ruddy pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUFOUS</tag>
+				<one-of>
+					<item>rufous</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUSSET</tag>
+				<one-of>
+					<item>russet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUST</tag>
+				<one-of>
+					<item>rust</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>RUSTY RED</tag>
+				<one-of>
+					<item>rusty red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SACRAMENTO STATE GREEN</tag>
+				<one-of>
+					<item>sacramento state green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SADDLE BROWN</tag>
+				<one-of>
+					<item>saddle brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SAFETY ORANGE BLAZE ORANGE</tag>
+				<one-of>
+					<item>safety orange blaze orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SAFFRON</tag>
+				<one-of>
+					<item>saffron</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SALMON</tag>
+				<one-of>
+					<item>salmon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SALMON PINK</tag>
+				<one-of>
+					<item>salmon pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SAND</tag>
+				<one-of>
+					<item>sand</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SAND DUNE</tag>
+				<one-of>
+					<item>sand dune</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SANDSTORM</tag>
+				<one-of>
+					<item>sandstorm</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SANDY BROWN</tag>
+				<one-of>
+					<item>sandy brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SANDY TAUPE</tag>
+				<one-of>
+					<item>sandy taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SANGRIA</tag>
+				<one-of>
+					<item>sangria</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SAP GREEN</tag>
+				<one-of>
+					<item>sap green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SAPPHIRE</tag>
+				<one-of>
+					<item>sapphire</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SAPPHIRE BLUE</tag>
+				<one-of>
+					<item>sapphire blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SATIN SHEEN GOLD</tag>
+				<one-of>
+					<item>satin sheen gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SCARLET</tag>
+				<one-of>
+					<item>scarlet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SCARLET CRAYOLA</tag>
+				<one-of>
+					<item>scarlet crayola</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SCHOOL BUS YELLOW</tag>
+				<one-of>
+					<item>school bus yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SCREAMIN GREEN</tag>
+				<one-of>
+					<item>screamin green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SEA BLUE</tag>
+				<one-of>
+					<item>sea blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SEA GREEN</tag>
+				<one-of>
+					<item>sea green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SEAL BROWN</tag>
+				<one-of>
+					<item>seal brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SEASHELL</tag>
+				<one-of>
+					<item>seashell</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SELECTIVE YELLOW</tag>
+				<one-of>
+					<item>selective yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SEPIA</tag>
+				<one-of>
+					<item>sepia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SHADOW</tag>
+				<one-of>
+					<item>shadow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SHAMROCK GREEN</tag>
+				<one-of>
+					<item>shamrock green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SHOCKING PINK</tag>
+				<one-of>
+					<item>shocking pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SHOCKING PINK CRAYOLA</tag>
+				<one-of>
+					<item>shocking pink crayola</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SIENNA</tag>
+				<one-of>
+					<item>sienna</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SILVER</tag>
+				<one-of>
+					<item>silver</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SINOPIA</tag>
+				<one-of>
+					<item>sinopia</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SKOBELOFF</tag>
+				<one-of>
+					<item>skobeloff</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SKY BLUE</tag>
+				<one-of>
+					<item>sky blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SKY MAGENTA</tag>
+				<one-of>
+					<item>sky magenta</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SLATE BLUE</tag>
+				<one-of>
+					<item>slate blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SLATE GRAY</tag>
+				<one-of>
+					<item>slate gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SMALT DARK POWDER BLUE</tag>
+				<one-of>
+					<item>smalt dark powder blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SMOKEY TOPAZ</tag>
+				<one-of>
+					<item>smokey topaz</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SMOKY BLACK</tag>
+				<one-of>
+					<item>smoky black</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SNOW</tag>
+				<one-of>
+					<item>snow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SPIRO DISCO BALL</tag>
+				<one-of>
+					<item>spiro disco ball</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SPRING BUD</tag>
+				<one-of>
+					<item>spring bud</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SPRING GREEN</tag>
+				<one-of>
+					<item>spring green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ST. PATRICKS BLUE</tag>
+				<one-of>
+					<item>st. patricks blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>STEEL BLUE</tag>
+				<one-of>
+					<item>steel blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>STIL DE GRAIN YELLOW</tag>
+				<one-of>
+					<item>stil de grain yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>STIZZA</tag>
+				<one-of>
+					<item>stizza</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>STORMCLOUD</tag>
+				<one-of>
+					<item>stormcloud</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>STRAW</tag>
+				<one-of>
+					<item>straw</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SUNGLOW</tag>
+				<one-of>
+					<item>sunglow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>SUNSET</tag>
+				<one-of>
+					<item>sunset</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TAN</tag>
+				<one-of>
+					<item>tan</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TANGELO</tag>
+				<one-of>
+					<item>tangelo</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TANGERINE</tag>
+				<one-of>
+					<item>tangerine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TANGERINE YELLOW</tag>
+				<one-of>
+					<item>tangerine yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TANGO PINK</tag>
+				<one-of>
+					<item>tango pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TAUPE</tag>
+				<one-of>
+					<item>taupe</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TAUPE GRAY</tag>
+				<one-of>
+					<item>taupe gray</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TEA GREEN</tag>
+				<one-of>
+					<item>tea green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TEA ROSE ORANGE</tag>
+				<one-of>
+					<item>tea rose orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TEA ROSE ROSE</tag>
+				<one-of>
+					<item>tea rose rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TEAL</tag>
+				<one-of>
+					<item>teal</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TOMATO</tag>
+				<one-of>
+					<item>tomato</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TOOLBOX</tag>
+				<one-of>
+					<item>toolbox</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TOPAZ</tag>
+				<one-of>
+					<item>topaz</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TRACTOR RED</tag>
+				<one-of>
+					<item>tractor red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TROLLEY GREY</tag>
+				<one-of>
+					<item>trolley grey</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TROPICAL RAIN FOREST</tag>
+				<one-of>
+					<item>tropical rain forest</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TRUE BLUE</tag>
+				<one-of>
+					<item>true blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TUFTS BLUE</tag>
+				<one-of>
+					<item>tufts blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TUMBLEWEED</tag>
+				<one-of>
+					<item>tumbleweed</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TURKISH ROSE</tag>
+				<one-of>
+					<item>turkish rose</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TURQUOISE</tag>
+				<one-of>
+					<item>turquoise</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TURQUOISE BLUE</tag>
+				<one-of>
+					<item>turquoise blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TURQUOISE GREEN</tag>
+				<one-of>
+					<item>turquoise green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TUSCAN RED</tag>
+				<one-of>
+					<item>tuscan red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TWILIGHT LAVENDER</tag>
+				<one-of>
+					<item>twilight lavender</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>TYRIAN PURPLE</tag>
+				<one-of>
+					<item>tyrian purple</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UA BLUE</tag>
+				<one-of>
+					<item>ua blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UA RED</tag>
+				<one-of>
+					<item>ua red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UBE</tag>
+				<one-of>
+					<item>ube</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UCLA BLUE</tag>
+				<one-of>
+					<item>ucla blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UCLA GOLD</tag>
+				<one-of>
+					<item>ucla gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UFO GREEN</tag>
+				<one-of>
+					<item>ufo green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ULTRA PINK</tag>
+				<one-of>
+					<item>ultra pink</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ULTRAMARINE</tag>
+				<one-of>
+					<item>ultramarine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ULTRAMARINE BLUE</tag>
+				<one-of>
+					<item>ultramarine blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UMBER</tag>
+				<one-of>
+					<item>umber</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UNBLEACHED SILK</tag>
+				<one-of>
+					<item>unbleached silk</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UNITED NATIONS BLUE</tag>
+				<one-of>
+					<item>united nations blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UNIVERSITY OF CALIFORNIA GOLD</tag>
+				<one-of>
+					<item>university of california gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UNMELLOW YELLOW</tag>
+				<one-of>
+					<item>unmellow yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UP FOREST GREEN</tag>
+				<one-of>
+					<item>up forest green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UP MAROON</tag>
+				<one-of>
+					<item>up maroon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UPSDELL RED</tag>
+				<one-of>
+					<item>upsdell red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UROBILIN</tag>
+				<one-of>
+					<item>urobilin</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>USAFA BLUE</tag>
+				<one-of>
+					<item>usafa blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>USC CARDINAL</tag>
+				<one-of>
+					<item>usc cardinal</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>USC GOLD</tag>
+				<one-of>
+					<item>usc gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>UTAH CRIMSON</tag>
+				<one-of>
+					<item>utah crimson</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VANILLA</tag>
+				<one-of>
+					<item>vanilla</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VEGAS GOLD</tag>
+				<one-of>
+					<item>vegas gold</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VENETIAN RED</tag>
+				<one-of>
+					<item>venetian red</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VERDIGRIS</tag>
+				<one-of>
+					<item>verdigris</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VERMILION CINNABAR</tag>
+				<one-of>
+					<item>vermilion cinnabar</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VERMILION PLOCHERE</tag>
+				<one-of>
+					<item>vermilion plochere</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VERONICA</tag>
+				<one-of>
+					<item>veronica</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIOLET</tag>
+				<one-of>
+					<item>violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIOLET-BLUE</tag>
+				<one-of>
+					<item>violet-blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIOLET COLOR WHEEL</tag>
+				<one-of>
+					<item>violet color wheel</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIOLET RYB</tag>
+				<one-of>
+					<item>violet ryb</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIOLET WEB</tag>
+				<one-of>
+					<item>violet web</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIRIDIAN</tag>
+				<one-of>
+					<item>viridian</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIVID AUBURN</tag>
+				<one-of>
+					<item>vivid auburn</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIVID BURGUNDY</tag>
+				<one-of>
+					<item>vivid burgundy</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIVID CERISE</tag>
+				<one-of>
+					<item>vivid cerise</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIVID TANGERINE</tag>
+				<one-of>
+					<item>vivid tangerine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>VIVID VIOLET</tag>
+				<one-of>
+					<item>vivid violet</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WARM BLACK</tag>
+				<one-of>
+					<item>warm black</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WATERSPOUT</tag>
+				<one-of>
+					<item>waterspout</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WENGE</tag>
+				<one-of>
+					<item>wenge</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WHEAT</tag>
+				<one-of>
+					<item>wheat</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WHITE</tag>
+				<one-of>
+					<item>white</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WHITE SMOKE</tag>
+				<one-of>
+					<item>white smoke</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WILD BLUE YONDER</tag>
+				<one-of>
+					<item>wild blue yonder</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WILD STRAWBERRY</tag>
+				<one-of>
+					<item>wild strawberry</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WILD WATERMELON</tag>
+				<one-of>
+					<item>wild watermelon</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WINE</tag>
+				<one-of>
+					<item>wine</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WINE DREGS</tag>
+				<one-of>
+					<item>wine dregs</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WISTERIA</tag>
+				<one-of>
+					<item>wisteria</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>WOOD BROWN</tag>
+				<one-of>
+					<item>wood brown</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>XANADU</tag>
+				<one-of>
+					<item>xanadu</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>YALE BLUE</tag>
+				<one-of>
+					<item>yale blue</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>YELLOW</tag>
+				<one-of>
+					<item>yellow</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>YELLOW-GREEN</tag>
+				<one-of>
+					<item>yellow-green</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>YELLOW MUNSELL</tag>
+				<one-of>
+					<item>yellow munsell</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>YELLOW NCS</tag>
+				<one-of>
+					<item>yellow ncs</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>YELLOW ORANGE</tag>
+				<one-of>
+					<item>yellow orange</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>YELLOW PROCESS</tag>
+				<one-of>
+					<item>yellow process</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>YELLOW RYB</tag>
+				<one-of>
+					<item>yellow ryb</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ZAFFRE</tag>
+				<one-of>
+					<item>zaffre</item>
+				</one-of>
+			</item>
+			<item>
+				<tag>ZINNWALDITE BROWN</tag>
+				<one-of>
+					<item>zinnwaldite brown</item>
+				</one-of>
+			</item>
+		</one-of>
+	</rule>
+</grammar>
